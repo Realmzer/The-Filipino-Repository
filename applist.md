@@ -75,7 +75,7 @@
       "downloadURL": "https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "Injected with BH, a tweak that gives:\n\nNo Ads, Download Videos, Download Musics, Show/Hide UI button, Copy video decription, Copy video link, Copy Music link, Auto Play Next Video, Show progress bar, Confirm like, Confirm comment like, Confirm comment dislike, Confirm follow, Save profile image, Copy profile information, Extend bio, Extend comment, Always open in Safari, Changing region, Fake verify blue mark, Fake Follower count, Fake Following count, Padlock\n\nNote: Old tweak, some features may not work.\n\nStatus: ✅🌟", 
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp" 
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/WebP%20Image.webp" 
     },
     {
       "name": "X", 
@@ -87,7 +87,7 @@
       "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since Feburary and may face issues on newer version of X.\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png" 
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5319.jpeg" 
     },
    {
       "name": "iTorrent", 
@@ -99,7 +99,7 @@
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.10-1/iTorrent.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥", 
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0042.png" 
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_4981.png" 
     },
     {
       "name": "Null's Brawl", 
