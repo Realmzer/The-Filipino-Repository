@@ -1,8 +1,8 @@
-welcome to the filipino repo!
+Welcome to the Filipino Repo!
 
-this is just a repo derived from the ashes from
-what used to be the omega repo that i might update in the future lol
+This repo is derived from the ashes of
+what used to be the omega repo.
 
-join the discord
+Please join our discord!
 
 https://discord.gg/pXxw9djmmH
