@@ -117,13 +117,25 @@
       "name": "UNDERTALE", 
       "bundleIdentifier": "com.jockeholm.undertale", 
       "subtitle": "Woaah Woaah Wooah, Story of Undertale",
-      "versionDate": "2024-09-19",
-      "version": "2.0.10-1",
+      "versionDate": "2024-10-23",
+      "version": "1.0.0",
       "size": 140616941, 
       "downloadURL": "https://download1580.mediafire.com/08jtrca3n81gQzV6wAaXCCS7kIUzul0wCphAD7ozTSSESAcf7qTQwhnUW_HkYxrBl-VaZaHvmUCPLI7ZqQ0gDsRb-bx-qfBGIAbXNk3XsyPmW-T6gtrjObrkLOUQcUolJ_A67w1V27CqlusyKE3xDn3OMwblKMVjJ7oZBMOd/wagrw9xhnu8ofu3/UNDERTALE.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "The RPG game where no one has to die.\n\nStatus: ✅🔥", 
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5315.webp" 
+    }
+     {
+      "name": "HDOHub", 
+      "bundleIdentifier": "com.hdohub.az", 
+      "subtitle": "HDFlix 2?!",
+      "versionDate": "2024-10-23",
+      "version": "1.1.0",
+      "size": 9636413, 
+      "downloadURL": "https://download1507.mediafire.com/2dqioxqgy7tgtEHbKgaHznqWUu3fZpyubC997bya-KZZg2otgfEc1Ei-AqKrCPZfhsWODdtTbg5udcXwtv6W88IobKMACfN3LgCtoZj5JOGdLMQz69ihSzUfuqttH053F9TxCxhY4UDKY_FN1bccORxT2R_baHJV1-7IE4er/v22vl26j623ho4v/HDOHub.ipa", 
+      "developerName": "Filipino", 
+      "localizedDescription": "HD Flix but with a different UI and built in movie player\n\nStatus: ✅", 
+      "iconURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/blob/main/IMG_2122.png" 
     }
   ]
 }
