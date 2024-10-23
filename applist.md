@@ -120,7 +120,7 @@
       "versionDate": "2024-10-23",
       "version": "1.0.0",
       "size": 140616941, 
-      "downloadURL": "https://download1580.mediafire.com/08jtrca3n81gQzV6wAaXCCS7kIUzul0wCphAD7ozTSSESAcf7qTQwhnUW_HkYxrBl-VaZaHvmUCPLI7ZqQ0gDsRb-bx-qfBGIAbXNk3XsyPmW-T6gtrjObrkLOUQcUolJ_A67w1V27CqlusyKE3xDn3OMwblKMVjJ7oZBMOd/wagrw9xhnu8ofu3/UNDERTALE.ipa", 
+      "downloadURL": "https://mega.nz/file/ZBYyiAQZ#eh73ZsOPCZA1RZPvKGfF-hm9urFMqk7SuOgDE4W9uPI", 
       "developerName": "Filipino", 
       "localizedDescription": "The RPG game where no one has to die.\n\nStatus: ✅🔥", 
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5315.webp" 
@@ -132,7 +132,7 @@
       "versionDate": "2024-10-23",
       "version": "1.1.0",
       "size": 9636413, 
-      "downloadURL": "https://download1507.mediafire.com/amaarlasv9vg4ikbhVzWDM2bLzln9WurJ-wNV4WqDefJ-yqgtxHz-kzbJDBsTFCaS4vBQjL7UwFRDci-Qrp4Y1oxOAtHUdT8-_MypxSvhfAvqztXPjIAiQ7d67ddZNIhBMgc_o9Jm3fgYelz7fVEBWiwi1oBLQ9xhxJPjR7q/v22vl26j623ho4v/HDOHub.ipa", 
+      "downloadURL": "https://mega.nz/file/5ZRj1aja#Z8ULFxzqhZibr6e-1dwA6XDtp4gdLJJP5M1xvxnp_ec", 
       "developerName": "Filipino", 
       "localizedDescription": "HD Flix but with a different UI and built in movie player\n\nStatus: ✅", 
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5318.png" 
