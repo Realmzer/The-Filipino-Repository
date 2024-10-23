@@ -135,7 +135,7 @@
       "downloadURL": "https://download1507.mediafire.com/2dqioxqgy7tgtEHbKgaHznqWUu3fZpyubC997bya-KZZg2otgfEc1Ei-AqKrCPZfhsWODdtTbg5udcXwtv6W88IobKMACfN3LgCtoZj5JOGdLMQz69ihSzUfuqttH053F9TxCxhY4UDKY_FN1bccORxT2R_baHJV1-7IE4er/v22vl26j623ho4v/HDOHub.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "HD Flix but with a different UI and built in movie player\n\nStatus: ✅", 
-      "iconURL": "blob:https://github.com/5525ad32-b95a-4033-ab5f-8260b2cc3e15" 
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5318.png" 
     },
      {
       "name": "Pomelo", 
@@ -147,7 +147,7 @@
       "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.2/Pomelo.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "Nintendo Switch Emulator requiring JIT and a paid apple account\n\nStatus: ✅🔥", 
-      "iconURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/blob/main/IMG_2123.png" 
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5317.png" 
     }
   ]
 }
