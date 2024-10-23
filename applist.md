@@ -120,7 +120,7 @@
       "versionDate": "2024-09-19",
       "version": "2.0.10-1",
       "size": 140616941, 
-      "downloadURL": "https://drive.usercontent.google.com/download?id=1ploRHFuQshdRDe4JaZhHN0xXQIVu4UCL&export=download&authuser=0&confirm=t&uuid=4fa612f5-e81f-4a49-bf43-c53aaedaa4fe&at=AN_67v3sDdAMfB9Zpk1Htan1L-M7%3A1729706769727", 
+      "downloadURL": "https://download1580.mediafire.com/08jtrca3n81gQzV6wAaXCCS7kIUzul0wCphAD7ozTSSESAcf7qTQwhnUW_HkYxrBl-VaZaHvmUCPLI7ZqQ0gDsRb-bx-qfBGIAbXNk3XsyPmW-T6gtrjObrkLOUQcUolJ_A67w1V27CqlusyKE3xDn3OMwblKMVjJ7oZBMOd/wagrw9xhnu8ofu3/UNDERTALE.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "The RPG game where no one has to die.\n\nStatus: ✅🔥", 
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5315.webp" 
