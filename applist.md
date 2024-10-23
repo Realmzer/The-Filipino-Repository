@@ -124,7 +124,7 @@
       "developerName": "Filipino", 
       "localizedDescription": "The RPG game where no one has to die.\n\nStatus: ✅🔥", 
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5315.webp" 
-    }
+    },
      {
       "name": "HDOHub", 
       "bundleIdentifier": "com.hdohub.az", 
@@ -136,6 +136,18 @@
       "developerName": "Filipino", 
       "localizedDescription": "HD Flix but with a different UI and built in movie player\n\nStatus: ✅", 
       "iconURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/blob/main/IMG_2122.png" 
+    },
+     {
+      "name": "Pomelo", 
+      "bundleIdentifier": "com.stossy11.Pomelo", 
+      "subtitle": "Nintendo's Enemy #1",
+      "versionDate": "2024-10-23",
+      "version": "2.2.0",
+      "size": 26633830, 
+      "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.2/Pomelo.ipa", 
+      "developerName": "Filipino", 
+      "localizedDescription": "Nintendo Switch Emulator requiring JIT and a paid apple account\n\nStatus: ✅🔥", 
+      "iconURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/blob/main/IMG_2123.png" 
     }
   ]
 }
