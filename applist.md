@@ -1,10 +1,10 @@
 {
-  "name": "by Omega IPA Repo",
-  "identifier": "omegadev.xyz",
+  "name": "Filipino IPA Repo",
+  "identifier": "filipinodev.xyz",
   "sourceURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/applist.md",
   "apps": [
     {
-      "name": "Welcome to Omega's IPA Repo!",
+      "name": "Welcome to Filipino's IPA Repo!",
       "bundleIdentifier": "xyz.omegadev.start",
       "version": "16",
       "versionDate": "2024-09-18",
