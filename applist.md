@@ -5,19 +5,19 @@
   "apps": [
     {
       "name": "Welcome to Filipino's IPA Repo!",
-      "bundleIdentifier": "xyz.omegadev.start",
+      "bundleIdentifier": "xyz.filipinodev.start",
       "version": "16",
       "versionDate": "2024-09-18",
       "size": 142586675,
       "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
       "developerName": "Omega",
-      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
+      "localizedDescription": "Welcome to Filipino's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5312.jpeg"
   },
   {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Omega",
+      "developerName": "Filipino",
       "subtitle": "YTLite with more features!",
       "version": "19.34.2",
       "versionDate": "2024-09-18",
