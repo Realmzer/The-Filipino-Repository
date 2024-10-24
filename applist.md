@@ -495,7 +495,7 @@
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
       "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.\n\nStatus: ✅🔥",
       "versionDate": "2024-10-24"
-    }
+    },
     {
       "name": "Revenge",
       "bundleIdentifier": "com.hammerandchisel.discord",
