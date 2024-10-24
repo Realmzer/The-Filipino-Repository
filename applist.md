@@ -486,7 +486,7 @@
     },
     {
       "name": "Nugget Mobile",
-      "bundleIdentifier": "Gedagedigedagedo",
+      "bundleIdentifier": "com.leemin.nugget",
       "subtitle": "Gedagedigedagedo, ive been married a long time ago",
       "developerName": "Filipino",
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/tags/nugget/images.jpeg",
@@ -494,6 +494,18 @@
       "size": 7675576,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
       "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-24"
+    }
+    {
+      "name": "Revenge",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "subtitle": "Homicidal Discord Client?",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5351.PNG",
+      "version": "252.0.0",
+      "size": 106640179,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Revenge/Revenge-discordnotrack.ipa",
+      "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
       "versionDate": "2024-10-24"
     }
   ]
