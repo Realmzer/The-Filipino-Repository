@@ -224,8 +224,8 @@
    },
     {
       "name": "StossyCord",
-      "bundleIdentifier": "xyz.Filipino.stossycord",
-      "developerName": "Filipino",
+      "bundleIdentifier": "com.stossy11.Stossycord",
+      "developerName": "Stossy11",
       "version": "224.0",
       "versionDate": "2024-09-26",
       "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
