@@ -127,7 +127,7 @@
     },
     {
       "name": "Duolingo Cracked",
-      "bundleIdentifier": "xyz.Filipino.duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Filipino",
       "version": "7.37.1",
       "versionDate": "2024-09-13",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Picsart++",
-      "bundleIdentifier": "xyz.Filipino.picsart",
+      "bundleIdentifier": "com.picsart.studio",
       "developerName": "Filipino",
       "version": "25.5.1",
       "versionDate": "2024-09-21",
@@ -152,7 +152,7 @@
     },
     {
       "name": "CapCut++",
-      "bundleIdentifier": "xyz.Filipino.capcut",
+      "bundleIdentifier": "com.lemon.Ivoverseas",
       "developerName": "Filipino",
       "version": "12.0",
       "versionDate": "2024-09-21",
@@ -164,7 +164,7 @@
     },
     {
       "name": "Discord Enemity",
-      "bundleIdentifier": "xyz.Filipino.enemity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Filipino",
       "version": "Newest",
       "versionDate": "2024-09-21",
@@ -176,7 +176,7 @@
     },
     {
       "name": "Apollo for Reddit",
-      "bundleIdentifier": "xyz.Filipino.apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Filipino",
       "subtitle": "An alternative Reddit Client!",
       "version": "1.15.11",
@@ -188,7 +188,7 @@
     },
     {
       "name": "Carrot++",
-      "bundleIdentifier": "xyz.Filipino.carrot",
+      "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Filipino",
       "version": "6.1",
       "versionDate": "2024-09-16",
@@ -200,7 +200,7 @@
     },
     {
       "name": "Bunny_Discord",
-      "bundleIdentifier": "xyz.Filipino.bunny",
+      "bundleIdentifier": "com.hammerandchisel.bunny",
       "developerName": "Filipino",
       "version": "224.0",
       "versionDate": "2024-04-10",
@@ -212,7 +212,7 @@
     },
     {
       "name": "PhotoMath++",
-      "bundleIdentifier": "xyz.Filipino.photomath",
+      "bundleIdentifier": ".com.microblink.PhotoMath",
       "developerName": "Filipino",
       "version": "8.35.0",
       "versionDate": "2024-09-26",
@@ -236,7 +236,7 @@
     },
     {
       "name": "Minecraft",
-      "bundleIdentifier": "xyz.Filipino.minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Filipino",
       "version": "1.21.22",
       "versionDate": "2024-09-26",
@@ -248,7 +248,7 @@
     },
      {
       "name": "Flappy Bird",
-      "bundleIdentifier": "xyz.Filipino.flappybird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Filipino",
       "version": "1.21.22",
       "versionDate": "2024-09-26",
@@ -260,7 +260,7 @@
     },
     {
       "name": "BH Twitter", 
-      "bundleIdentifier": "xyz.Filipino.bhtwitter", 
+      "bundleIdentifier": "com.atebits.Tweetie1", 
       "subtitle": "X, turned back into Twitter! (With Tweaks)",
       "versionDate": "2024-09-19",
       "version": "1",
@@ -272,7 +272,7 @@
     },
     {
       "name": "Reddit RedditFilter", 
-      "bundleIdentifier": "xyz.Filipino.redditfilter", 
+      "bundleIdentifier": "com.reddit.Reddit", 
       "subtitle": "Reddit with RedditFilter!",
       "versionDate": "2024-09-26",
       "version": "1.1.6",
@@ -284,7 +284,7 @@
     },
      {
       "name": "OldOS", 
-      "bundleIdentifier": "xyz.Filipino.oldos", 
+      "bundleIdentifier": "com.zurac.OldOS", 
       "subtitle": "iOS 4, brought back to life!",
       "versionDate": "2024-09-26",
       "version": "1.0.0",
@@ -296,7 +296,7 @@
     },
      {
       "name": "PPSSPP++", 
-      "bundleIdentifier": "xyz.Filipino.ppspp", 
+      "bundleIdentifier": "org.ppsspp.ppsspp", 
       "subtitle": "The best retro game emulator!",
       "versionDate": "2024-09-26",
       "version": "1.15.3",
@@ -308,7 +308,7 @@
     },
      {
       "name": "Mangayomi", 
-      "bundleIdentifier": "xyz.Filipino.mangayomi", 
+      "bundleIdentifier": "com.kodjodevf.mangayomi", 
       "subtitle": "Manga and Anime viewer!",
       "versionDate": "2024-09-26",
       "version": "0.3.5",
@@ -320,7 +320,7 @@
     },
     {
       "name": "Fall Guys", 
-      "bundleIdentifier": "xyz.Filipino.fallguys", 
+      "bundleIdentifier": "uk.co.mediatonic.fallguys", 
       "subtitle": "Fall Guys, outside of the EU!",
       "version": "11.3.0",
       "size": 195238232, 
@@ -331,20 +331,8 @@
       "iconURL": "https://preview.redd.it/fall-guys-mobile-icon-v0-d3n68howgkhd1.jpeg?auto=webp&s=c7f9e61f59f0800bdf628e344125d027642d2e88"
     },
     {
-      "name": "Fortnite", 
-      "bundleIdentifier": "xyz.Filipino.fortnite", 
-      "subtitle": "Fortnite, outside of the EU!",
-      "versionDate": "2024-09-26",
-      "version": "31.30.1",
-      "size": 195238232, 
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.2/Fortnite-31.30.1.ipa", 
-      "developerName": "Filipino", 
-      "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅🔥", 
-      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/d/db/Fortnite_S1.svg/revision/latest/scale-to-width-down/250?cb=20210330161743" 
-    },
-     {
       "name": "PojavLauncher", 
-      "bundleIdentifier": "xyz.Filipino.pojav", 
+      "bundleIdentifier": "net.kdt.pojavlauncher", 
       "subtitle": "Minecraft Java Edition on iOS!",
       "versionDate": "2024-09-26",
       "version": "2.2 DeepSlate",
@@ -356,7 +344,7 @@
     },
     {
     "name": "AI Chat Smith++",
-    "bundleIdentifier": "xyz.Filipino.aichatsmith",
+    "bundleIdentifier": "co.vulcanlabs.moodtracker",
     "developerName": "Filipino",
     "version": "7.0.0",
     "versionDate": "2024-09-26",
@@ -389,19 +377,8 @@
     "size": 59768832
     },
     {
-    "name": "Snapchat Iota",
-    "bundleIdentifier": "xyz.Filipino.iotasnap",
-    "developerName": "Filipino",
-    "version": "6.0",
-    "versionDate": "2024-10-07",
-    "downloadURL": "https://cdn.discordapp.com/attachments/1203780087883890778/1279457149008744540/iota6.0-13.1.0.ipa?ex=67054a53&is=6703f8d3&hm=5de15a281a716ba6df7a2d15c90d63a309132e57854a87d02e846048f009d6c0&",
-    "localizedDescription": "🚨 SNAPCHAT TWEAKS ARE CURRENTLY DETECTED AND WILL GET YOU BANNED/LOCKED 🚨\n\nA paid tweak for Snapchat. Liscenses are $12 for lifetime, or $5 per month. Very much worth it, and a much more trustworthy developer than Wicked.\n\nStatus: ✅🔥🌟",
-    "iconURL": "https://pbs.twimg.com/media/GIL9XZPbgAAWIbf.png",
-    "size": 59768832
-    },
-    {
     "name": "Provenance Emu",
-    "bundleIdentifier": "xyz.Filipino.provenance",
+    "bundleIdentifier": "org.provenance-emu.provenance",
     "developerName": "Filipino",
     "version": "6.0",
     "versionDate": "2024-10-07",
@@ -412,7 +389,7 @@
     },
     {
     "name": "Feather",
-    "bundleIdentifier": "xyz.Filipino.feather",
+    "bundleIdentifier": "kh.crysalis.feather",
     "developerName": "Filipino",
     "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
     "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
@@ -424,7 +401,7 @@
     },
     {
     "name": "Anonycord",
-    "bundleIdentifier": "xyz.Filipino.anonycord",
+    "bundleIdentifier": "live.cclerc.Anonycord",
     "developerName": "Filipino",
     "iconURL": "https://raw.githubusercontent.com/c22dev/Anonycord/refs/heads/main/Anonycord/Assets.xcassets/AppIcon.appiconset/2024_08_07_04s_Kleki.png",
     "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.\n\nStatus: ✅",
@@ -436,21 +413,8 @@
     "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
     },
     {
-    "name": "Cash App",
-    "bundleIdentifier": "xyz.Filipinodev.cashapp++",
-    "developerName": "Filipino",
-    "iconURL": "https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE",
-    "localizedDescription": "Troll your friends with this fake CashApp. Enter anything as the password. Some features may not work.\n\nStatus: ✅🔥🌟",
-    "subtitle": "Prop Cash App with unlimited money.",
-    "version": "4.5",
-    "date": "2024-10-10",
-    "size": 12375230,
-    "versionDate": "2024-10-10",
-    "downloadURL": "https://cdn.discordapp.com/attachments/1293025772918800465/1294080439274967132/Cash_App_4.5_1728603095.ipa?ex=6709b5d3&is=67086453&hm=ab03b2c83b255dc5e2c07a3801647a517f161202c4e76d0f7a373b2bb0485210&"
-    },
-    {
       "name": "BSD Brawl Stars", 
-      "bundleIdentifier": "xyz.Filipino.bsdbrawl", 
+      "bundleIdentifier": "bsd.suitcase.release", 
       "subtitle": "Brawl Stars with hacks! This runs on normal servers, so you will be able to use your main account. Not bannable as far as I know.\n\nStatus: ✅🔥",
       "versionDate": "2024-10-10",
       "version": "57.325",
@@ -462,9 +426,9 @@
     },
     {
         "name": "eSign No Logs",
-        "bundleIdentifier": "xyz.Filipino.esignnologs",
+        "bundleIdentifier": "p3.xyz.yyyue.esign",
         "subtitle": "eSign With No Logs",
-        "localizedDescription": "Use with Filipino Certificates to sign unlimited apps for 1 year, on device, with no computer.\n\nStatus: ✅🔥",
+        "localizedDescription": "the popular app signer thats better than scarlet and now has no software that sends your data to china!\n\nStatus: ✅🔥",
         "developerName": "Filipino",
         "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/esign.png?raw=true",
         "size": 7245924,
@@ -473,20 +437,8 @@
         "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/ESign-V5.0.2-No-Logs.ipa"
     },
     {
-        "name": "Deltarune",
-        "bundleIdentifier": "xyz.Filipino.deltarune",
-        "subtitle": "Deltarune - iOS Port",
-        "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.",
-        "developerName": "Filipino",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/deltarune.png?raw=true",
-        "size": 70279168,
-        "version": "1.0.0",
-        "versionDate": "2024-10-12",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/deltarune.ipa"
-      },
-      {
         "name": "Undertale",
-        "bundleIdentifier": "xyz.Filipino.undertale",
+        "bundleIdentifier": "com.jockeholm.undertale",
         "subtitle": "Undertale - iOS Port",
         "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n\n(Game contains imagery that may be harmful to players with photosensitive epilepsy or similar conditions).\n\nStatus: ✅",
         "developerName": "Filipino",
@@ -498,7 +450,7 @@
       },
       {
         "name": "Sonic Mania",
-        "bundleIdentifier": "xyz.Filipino.sonicmania",
+        "bundleIdentifier": "org.wamwoowam.RSDKv5",
         "subtitle": "Sonic Mania - IOS Port",
         "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\n\nStatus: ✅",
         "developerName": "Filipino",
@@ -509,20 +461,9 @@
         "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/SonicMania.ipa"
     },
     {
-        "name": "Valorant",
-        "bundleIdentifier": "xyz.Filipino.valorant",
-        "subtitle": "Valorant Mobile (China)",
-        "localizedDescription": "This is an EXTREMELY rare IPA. Decryped from Chinese servers, now available to sideload on iOS globally!\n\nStatus: ✅",
-        "developerName": "Filipino",
-        "iconURL": "https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png",
-        "size": 2805760,
-        "version": "1.0",
-        "versionDate": "2024-10-12",
-        "downloadURL": "https://cdncelestial.b-cdn.net/Valorant.ipa"
-    },
-{
       "name": "BitLife",
       "bundleIdentifier": "com.wtfapps.apollo16",
+      "subtitle": i am not explaining this game
       "developerName": "Filipino",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3a/bd/9a3abd03-9d22-f514-37e7-a1fad298ad46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "version": "3.15.9",
@@ -533,7 +474,8 @@
     },
     {
       "name": "Geometry Dash - iCreate Pro",
-      "bundleIdentifier": "xyz.Filipino.icreatepro",
+      "bundleIdentifier": "com.camila314.icreate",
+      "subtitle": FIRE IN THE HOLE
       "developerName": "Filipino",
       "iconURL": "https://icreate.pro/assets/images/app-circle.png",
       "version": "6.6.0",
