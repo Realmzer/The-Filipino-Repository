@@ -40,20 +40,6 @@
       "size": 103674391
     },
     {
-      "name": "Flappy Bird",
-      "bundleIdentifier": "org.brandonplank.flappybird.ipa",
-      "versionDate": "2024-09-18",
-      "developerName": "Filipino",
-      "subtitle": "Flappy Bird Remastered",
-      "localizedDescription": "Ye Flappy Bird.\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
-      "category": "Entertainment",
-      "version": "4.3",
-      "date": "2024-05-11",
-      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-      "size": 2940000
-    },
-    {
       "name": "HD Flix",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "versionDate": "2024-09-18",
@@ -267,7 +253,7 @@
       "version": "1.21.22",
       "versionDate": "2024-09-26",
       "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-      "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🌟",
+      "localizedDescription": "A near-exact clone of the original Flappy Bird!\n\nStatus: ✅🔥",
       "iconURL": "https://raw.githubusercontent.com/freehelpdesk/flappybird/main/github/icon-rounded.png",
       "size": 96468992,
       "subtitle": "A near exact clone of the original Flappy Bird!"
@@ -483,7 +469,7 @@
       "version": "3.15.9",
       "size": 209020146,
       "downloadURL": "https://download.starfiles.co/l1yidavxpw3s",
-      "localizedDescription": "BitLife - Cracked",
+      "localizedDescription": "BitLife - Cracked\n\nStatus: ✅",
       "versionDate": "2024-10-15"
     },
     {
@@ -495,7 +481,7 @@
       "version": "6.6.0",
       "size": 162004992,
       "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
-      "localizedDescription": "Tweaked Geometry Dash",
+      "localizedDescription": "Tweaked Geometry Dash\n\nStatus: ✅🌟🔥",
       "versionDate": "2024-10-15"
     },
     {
@@ -507,8 +493,8 @@
       "version": "2.2.0",
       "size": 7675576,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
-      "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.",
-      "versionDate": "2024-10-15"
+      "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-24"
     }
   ]
 }
