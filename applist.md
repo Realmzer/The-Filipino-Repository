@@ -204,7 +204,7 @@
       "developerName": "Filipino",
       "version": "224.0",
       "versionDate": "2024-04-10",
-      "downloadURL": "https://github.com/pyoncord/BunnyTweak/releases/download/v247.2/Bunny.ipa",
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/bunny/Bunny.IPAEdit.ipa",
       "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
       "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Bunny_Pyoncord_224.0.png",
       "size": 96468992,
@@ -265,7 +265,7 @@
       "versionDate": "2024-09-19",
       "version": "1",
       "size": 195238232, 
-      "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/ipa/X.10.33.FuckElon.@ghl3m0n.ipa", 
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/twitter-bh/BHTwitter-sideloaded.IPAEdit.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://cdn.jim-nielsen.com/ios/512/twitter-2023-07-24.png?rf=1024" 
