@@ -479,7 +479,7 @@
       "developerName": "Filipino",
       "iconURL": "https://icreate.pro/assets/images/app-circle.png",
       "version": "6.6.0",
-      "size": 209020146,
+      "size": 162004992,
       "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
       "localizedDescription": "Tweaked Geometry Dash",
       "versionDate": "2024-10-15"
@@ -491,7 +491,7 @@
       "developerName": "Filipino",
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/tags/nugget/images.jpeg",
       "version": "2.2.0",
-      "size": 209020146,
+      "size": 7675576,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
       "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.",
       "versionDate": "2024-10-15"
