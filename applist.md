@@ -32,12 +32,26 @@
       "bundleIdentifier": "com.stossy11.Pomelo",
       "developerName": "Stossy11, TechGuy",
       "subtitle": "A Nintendo Swicth Emulator for iOS",
-      "version": "19.34.2",
-      "versionDate": "2024-09-18",
+      "version": "2.2",
+      "versionDate": "2024-09-20",
       "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.2/Pomelo.ipa",
       "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/Pomelo/Assets.xcassets/AppIcon.appiconset/fun%201.png",
       "size": 103674391
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird.ipa",
+      "versionDate": "2024-09-18",
+      "developerName": "Filipino",
+      "subtitle": "Flappy Bird Remastered",
+      "localizedDescription": "Ye Flappy Bird.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+      "category": "Entertainment",
+      "version": "4.3",
+      "date": "2024-05-11",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "size": 2940000
     },
     {
       "name": "HD Flix",
