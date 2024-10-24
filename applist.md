@@ -463,7 +463,7 @@
     {
       "name": "BitLife",
       "bundleIdentifier": "com.wtfapps.apollo16",
-      "subtitle": i am not explaining this game
+      "subtitle": "i am not explaining this game",
       "developerName": "Filipino",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3a/bd/9a3abd03-9d22-f514-37e7-a1fad298ad46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "version": "3.15.9",
@@ -475,13 +475,25 @@
     {
       "name": "Geometry Dash - iCreate Pro",
       "bundleIdentifier": "com.camila314.icreate",
-      "subtitle": FIRE IN THE HOLE
+      "subtitle": "FIRE IN THE HOLE",
       "developerName": "Filipino",
       "iconURL": "https://icreate.pro/assets/images/app-circle.png",
       "version": "6.6.0",
       "size": 209020146,
       "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.6.0.ipa",
       "localizedDescription": "Tweaked Geometry Dash",
+      "versionDate": "2024-10-15"
+    },
+    {
+      "name": "Nugget Mobile",
+      "bundleIdentifier": "Gedagedigedagedo",
+      "subtitle": "Gedagedigedagedo, ive been married a long time ago",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/tags/nugget/images.jpeg",
+      "version": "2.2.0",
+      "size": 209020146,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
+      "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker.",
       "versionDate": "2024-10-15"
     }
   ]
