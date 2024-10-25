@@ -479,7 +479,7 @@
       "developerName": "Filipino",
       "iconURL": "https://icreate.pro/assets/images/app-circle.png",
       "version": "2.2.0.5",
-      "size": 162004992,
+      "size": 162738995,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/create/Icreate.Pro-6.6.1-Crack.ipa",
       "localizedDescription": "Tweaked Geometry Dash\n\nStatus: ✅🌟🔥",
       "versionDate": "2024-10-25"
