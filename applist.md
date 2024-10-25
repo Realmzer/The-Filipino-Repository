@@ -490,7 +490,7 @@
       "subtitle": "Gedagedigedagedo, ive been married a long time ago",
       "developerName": "Filipino",
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/tags/nugget/images.jpeg",
-      "version": "2.2.0",
+      "version": "2.0.0",
       "size": 7675576,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/nugget/Nugget.ipa",
       "localizedDescription": "Nugget is a non jailbroken iOS mobilegestalt tweaker. DISCONTINUED\n\nStatus: ✅",
@@ -506,6 +506,30 @@
       "size": 106640179,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Revenge/Revenge-discordnotrack.ipa",
       "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-24"
+    },
+    {
+      "name": "DolphiniOS JIT",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "subtitle": "use this if you want to play wii sports",
+      "developerName": "Filipino",
+      "iconURL": "https://styles.redditmedia.com/t5_2toete/styles/communityIcon_jqq2ogu91q851.jpg?format=pjpg&s=f1cccf74db83770a27e072364080522f0089454a",
+      "version": "4.0.0b7",
+      "size": 14470348,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Dolphin/Non-Jailbroken.ipa",
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-24"
+    },
+    {
+      "name": "DolphiniOS Non-JIT",
+      "bundleIdentifier": "com.brand175.DolphiniOS-njb",
+      "subtitle": "use this if you want to play laggy wii sports",
+      "developerName": "Filipino",
+      "iconURL": "https://styles.redditmedia.com/t5_2toete/styles/communityIcon_jqq2ogu91q851.jpg?format=pjpg&s=f1cccf74db83770a27e072364080522f0089454a",
+      "version": "3.2.1",
+      "size": 16043212,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Dolphin/DolphiniOS_No_JIT.ipa",
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
       "versionDate": "2024-10-24"
     }
   ]
