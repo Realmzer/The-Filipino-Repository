@@ -12,7 +12,7 @@
       "downloadURL": "filipinodev.xyz/placeholder",
       "developerName": "Filipino",
       "localizedDescription": "Welcome to Filipino's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nWant to request an app that is not on the repo? Want to make sure your using the REAL Filipino repo, and not one with potentially malicicious apps? Join our official Discord now: https://discord.gg/pXxw9djmmH",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5312.jpeg"
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5354.jpeg"
   },
   {
       "name": "YouTube Lite++",
