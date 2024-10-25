@@ -324,7 +324,7 @@
       "subtitle": "Fall Guys, outside of the EU!",
       "version": "11.3.0",
       "size": 195238232, 
-      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.3/FallGuys-11.3.0.ipa", 
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa", 
       "developerName": "Filipino", 
       "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥", 
        "versionDate": "2024-10-9",
