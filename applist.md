@@ -533,7 +533,7 @@
       "versionDate": "2024-10-25"
     },
     {
-      "name": "Blackheole",
+      "name": "Blackhole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
       "subtitle": "SUDDEN DEATH",
       "developerName": "Filipino",
