@@ -531,6 +531,18 @@
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Dolphin/DolphiniOS_No_JIT.ipa",
       "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
       "versionDate": "2024-10-24"
+    },
+    {
+      "name": "Blackheole",
+      "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
+      "subtitle": "SUDDEN DEATH",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5355.png",
+      "version": "3.2.1",
+      "size": 16043212,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/blackhole/BlackHole-v1.15.11-ios.ipa",
+      "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
+      "versionDate": "2024-10-24"
     }
   ]
 }
