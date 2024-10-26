@@ -543,6 +543,47 @@
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/blackhole/BlackHole-v1.15.11-ios.ipa",
       "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
       "versionDate": "2024-10-25"
+    },
+    {
+      "name": "UNDERTALE Bits & Pieces",
+      "bundleIdentifier": "com.utbnpios.undertale",
+      "subtitle": "4K Undertale (caught in 4k while genocide?)",
+      "developerName": "Filipino",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/undertale.png?raw=true",
+      "version": "2.0.0",
+      "size": 223918750,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Undertale-B%26P/UndertaleBNP.ipa",
+      "localizedDescription": "The 'Story Of Undertale'. Now remastered and with tons of new content!\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
+    },
+    {
+      "name": "UNDERTALE Yellow",
+      "bundleIdentifier": "com.atesquik.uty",
+      "subtitle": "Truely American Undertale",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/3057aa0acb6d937295819f3d94f015e9.ico",
+      "version": "1.0.0",
+      "size": 256712376,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Undertale/undertale-yellow-port-1.2.ipa",
+      "localizedDescription": "The (uncanon) Prologue of UNDERTALE where you play as a kid with a revolver for some reason lol\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
+    },
+    {
+      "name": "UNDERTALE Yellow And Red",
+      "bundleIdentifier": "com.utryios.undertale",
+      "subtitle": "Crossover ahh game",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/4dccec4fe2a73522c08b24866a540fcf.png",
+      "version": "2.0.0",
+      "size": 316669952,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Undertale/UndertaleRed.Yellow.IPAEdit.ipa",
+      "localizedDescription": "Have you played Undertale Yellow?
+After completing it, did you think: "Man, I really wanna replay Undertale now, but I've already played it so many times..."
+No?
+WELL TOO BAD!
+Introducing: Undertale Red & Yellow!
+An Undertale mod designed to scratch that Undertale Yellow itch!\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
     }
   ]
 }
