@@ -577,7 +577,7 @@
       "version": "2.0.0",
       "size": 316669952,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Undertale/UndertaleRed.Yellow.IPAEdit.ipa",
-      "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: "Man, I really wanna replay Undertale now, but I've already played it so many times..." No? WELL TOO BAD! Introducing: Undertale Red & Yellow! An Undertale mod designed to scratch that Undertale Yellow itch!\n\nStatus: ✅🔥",
+      "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: 'Man, I really wanna replay Undertale now, but I've already played it so many times...' No? WELL TOO BAD! Introducing: Undertale Red & Yellow! An Undertale mod designed to scratch that Undertale Yellow itch!\n\nStatus: ✅🔥",
       "versionDate": "2024-10-26"
     }
   ]
