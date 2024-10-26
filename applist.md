@@ -621,7 +621,7 @@
         "size": 7237632,
         "version": "Nightly",
         "versionDate": "2024-10-26",
-        "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/com.kdt.sparsebox_0.0.1.ipa",
+        "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/SparseBox/com.kdt.sparsebox_0.0.1.ipa",
         "title": "Sparsebox",
       }
   ]
