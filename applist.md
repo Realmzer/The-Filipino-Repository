@@ -537,6 +537,7 @@
       "versionDate": "2024-10-25"
     },
     {
+      "beta": true,
       "name": "UNDERTALE Bits & Pieces",
       "bundleIdentifier": "com.utbnpios.undertale",
       "subtitle": "4K Undertale (caught in 4k while genocide?)",
