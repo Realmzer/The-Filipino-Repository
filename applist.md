@@ -15,17 +15,17 @@
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5354.jpeg"
   },
   {
-      "name": "YouTube Lite++",
+      "name": "YTLitePlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Filipino",
-      "subtitle": "YTLite with more features!",
+      "subtitle": "YTLite with more features! (and removing those pesky popups)",
       "version": "19.34.2",
       "versionDate": "2024-09-18",
-      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/YTLitePlus/z8jg5n.ipa",
       "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
       "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
       "category": "social",
-      "size": 103674391
+      "size": 108737331
     },
     {
       "name": "Pomelo",
@@ -66,15 +66,15 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png" 
     },
     {
-      "name": "Spotify Eevee", 
+      "name": "EeveeSpotify", 
       "bundleIdentifier": "com.spotify.client", 
-      "subtitle": "Spotify injected with Eevee!",
-      "versionDate": "2024-09-18",
-      "version": "8.9.76",
-      "size": 195238232, 
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa", 
+      "subtitle": "Spotify Premium (ITS FREE)",
+      "versionDate": "2024-09-26",
+      "version": "8.9.86",
+      "size": 85773516, 
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.7/EeveeSpotify-5.7-8.9.86.ipa", 
       "developerName": "Filipino", 
-      "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥", 
+      "localizedDescription": "Injected with EeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥", 
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" 
     },
     {
@@ -529,7 +529,7 @@
       "version": "3.2.1",
       "size": 16043212,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Dolphin/DolphiniOS_No_JIT.ipa",
-      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
+      "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
       "versionDate": "2024-10-25"
     },
     {
