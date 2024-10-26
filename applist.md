@@ -579,6 +579,42 @@
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Undertale/UndertaleRed.Yellow.IPAEdit.ipa",
       "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: 'Man, I really wanna replay Undertale now, but I've already played it so many times...' No? WELL TOO BAD! Introducing: Undertale Red & Yellow! An Undertale mod designed to scratch that Undertale Yellow itch!\n\nStatus: ✅🔥",
       "versionDate": "2024-10-26"
+    },
+    {
+      "name": "Infinity Blade I",
+      "bundleIdentifier": "com.chairentertainment.birthright",
+      "subtitle": "Fortnite Predecessor",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_2127.png",
+      "version": "1.4.3",
+      "size": 636863119,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Infinity-Blade/Infinity.Blade.I.-.Community.Patch.v2.0.ipa",
+      "localizedDescription": "Infinity Blade is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
+    },
+    {
+      "name": "Infinity Blade II",
+      "bundleIdentifier": "com.chairentertainment.IB2",
+      "subtitle": "Fortnite Predecessor",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_2128.png",
+      "version": "1.3.5",
+      "size": 1103584296,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Infinity-Blade/Infinity.Blade.II.-.Community.Patch.v2.0.ipa",
+      "localizedDescription": "Infinity Blade II is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
+    },
+    {
+      "name": "Infinity Blade III",
+      "bundleIdentifier": "com.chairentertainment.IB3",
+      "subtitle": "Fortnite Predecessor",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_2129.png",
+      "version": "1.4.4",
+      "size": 1884353986,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Infinity-Blade/Infinity.Blade.III.-.Community.Patch.v2.2.ipa",
+      "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-26"
     }
   ]
 }
