@@ -2,19 +2,11 @@
   "name": "Filipino IPA Repo",
   "identifier": "filipinodev.xyz",
   "sourceURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/applist.md",
+  "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5354.jpeg",
+  "subtitle": "The Filipino Repo.",
+  "description": "Welcome to Filipino's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nWant to request an app that is not on the repo? Want to make sure your using the REAL Filipino repo, and not one with potentially malicicious apps? Join our official Discord now: https://discord.gg/pXxw9djmmH",
   "apps": [
     {
-      "name": "Welcome to Filipino's IPA Repo!",
-      "bundleIdentifier": "xyz.filipinodev.start",
-      "version": "16",
-      "versionDate": "2026-10-10",
-      "size": 142586675,
-      "downloadURL": "filipinodev.xyz/placeholder",
-      "developerName": "Filipino",
-      "localizedDescription": "Welcome to Filipino's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Reccomended by Developer(s)\n\nWant to request an app that is not on the repo? Want to make sure your using the REAL Filipino repo, and not one with potentially malicicious apps? Join our official Discord now: https://discord.gg/pXxw9djmmH",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5354.jpeg"
-  },
-  {
       "name": "YTLitePlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Filipino",
