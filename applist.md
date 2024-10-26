@@ -490,15 +490,15 @@
     },
     {
       "name": "Revenge",
-      "bundleIdentifier": "com.hammerandchisel.discord",
+      "bundleIdentifier": "com.hammerandchisel.homicide",
       "subtitle": "Homicidal Discord Client?",
       "developerName": "Filipino",
       "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_5351.PNG",
       "version": "252.0.0",
-      "size": 106640179,
-      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Revenge/Revenge-discordnotrack.ipa",
+      "size": 197037916,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Revenge/Revenge-discordnotrack.IPAEdit.ipa",
       "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
-      "versionDate": "2024-10-24"
+      "versionDate": "2024-10-26"
     },
     {
       "name": "DolphiniOS JIT",
