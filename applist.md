@@ -641,7 +641,7 @@
       "bundleIdentifier": "com.funkin.fnf",
       "subtitle": "beep boop bap game",
       "developerName": "Filipino",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/no%20b̶o̶d̶i̶e̶s̶%20images%20here/funkin.png",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/funkin.png",
       "version": "1.0.0",
       "size": 507664411,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Friday/Funkin.ipa",
