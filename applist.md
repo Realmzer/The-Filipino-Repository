@@ -634,6 +634,19 @@
       "downloadURL": "https://assets.sonicrunners.com/srr224.ipa",
       "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
       "versionDate": "2024-10-27"
+    },
+    {
+      "beta": true,
+      "name": "Friday Night Funkin",
+      "bundleIdentifier": "com.funkin.fnf",
+      "subtitle": "beep boop bap game",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/funkin.png",
+      "version": "1.0.0",
+      "size": 507664411,
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Friday/Funkin.ipa",
+      "localizedDescription": "Friday Night Funkin for Mobile!\n\nStatus: ✅",
+      "versionDate": "2024-10-27"
     }
   ]
 }
