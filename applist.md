@@ -660,19 +660,6 @@
       "downloadURL": "https://github.com/ppy/osu/releases/download/2024.412.1/osu.iOS.ipa",
       "localizedDescription": "OSU for Mobile! Time to start raging as hell!\n\nStatus: ✅🔥",
       "versionDate": "2024-10-27"
-    },
-    {
-      "beta": false,
-      "name": "Celeste",
-      "bundleIdentifier": "gay.rooot.celestemeow",
-      "subtitle": "Undertaleish Vibes (why is the bundle id gay?)",
-      "developerName": "Filipino",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/f7e6c85504ce6e82442c770f7c8606f0.ico",
-      "version": "1.0.0",
-      "size": 883718881,
-      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/celeste/celestemeow.ipa",
-      "localizedDescription": "An Undertale-Like game but unlike falling underground, you climb a f##king mountain!\n\nStatus: ✅🔥",
-      "versionDate": "2024-10-27"
     }
   ]
 }
