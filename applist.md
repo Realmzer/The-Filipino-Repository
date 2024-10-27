@@ -667,7 +667,7 @@
       "bundleIdentifier": "gay.rooot.celestemeow",
       "subtitle": "Undertaleish Vibes (why is the bundle id gay?)",
       "developerName": "Filipino",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/f7e6c85504ce6e82442c770f7c8606f0.ico",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/Filipino-Repo-Images/refs/heads/main/f7e6c85504ce6e82442c770f7c8606f0.ico",
       "version": "1.0.0",
       "size": 883718881,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/celeste/celestemeow.ipa",
