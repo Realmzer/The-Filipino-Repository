@@ -610,19 +610,30 @@
       "versionDate": "2024-10-26"
     },
     {
-        "beta": true,
-        "name": "Sparsebox",
-        "bundleIdentifier": "com.kdt.sparsebox",
-        "subtitle": "Sparsebox - Backups without a computer",
-        "description": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
-        "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
-        "developerName": "khanhduytran0",
-        "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/noicon.png?raw=true",
-        "size": 7237632,
-        "version": "Nightly",
-        "versionDate": "2024-10-26",
-        "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/SparseBox/com.kdt.sparsebox_0.0.1.ipa",
-        "title": "Sparsebox",
-      }
+      "beta": true,
+      "name": "Sparsebox",
+      "bundleIdentifier": "com.kdt.sparsebox",
+      "subtitle": "Sparsebox - Backups without a computer",
+      "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
+      "developerName": "khanhduytran0",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/noicon.png?raw=true",
+      "size": 7237632,
+      "version": "Nightly",
+      "versionDate": "2024-10-26",
+      "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/SparseBox/com.kdt.sparsebox_0.0.1.ipa",
+      },
+      {
+      "beta": false,
+      "name": "Sonic Runners Revival",
+      "bundleIdentifier": "com.sonicrunners.revival",
+      "subtitle": "Dragon Ball for Children",
+      "developerName": "Filipino",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/Sonic_Runners_App_Icon_2.0.webp",
+      "version": "2.2.4",
+      "size": 151322254,
+      "downloadURL": "https://assets.sonicrunners.com/srr224.ipa",
+      "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-27"
+    }
   ]
 }
