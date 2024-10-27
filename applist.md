@@ -616,7 +616,7 @@
       "subtitle": "Sparsebox - Backups without a computer",
       "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅",
       "developerName": "khanhduytran0",
-      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/noicon.png?raw=true",
+      "iconURL": "https://github.com/Realmzer/Realmzer.github.io/blob/main/images/noicon.png?raw=true"
       "size": 7237632,
       "version": "Nightly",
       "versionDate": "2024-10-26",
