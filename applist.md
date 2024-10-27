@@ -647,6 +647,19 @@
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Friday/Funkin.ipa",
       "localizedDescription": "Friday Night Funkin for Mobile!\n\nStatus: ✅",
       "versionDate": "2024-10-27"
+    },
+    {
+      "beta": false,
+      "name": "Osu",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "subtitle": "drag drag drag...",
+      "developerName": "Filipino",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBv0A_XBGu8mHhJlvix6bbkFzvrWec0Z1D9Q&s",
+      "version": "2024.412.1",
+      "size": 201746022,
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2024.412.1/osu.iOS.ipa",
+      "localizedDescription": "OSU for Mobile! Time to start raging as hell!\n\nStatus: ✅🔥",
+      "versionDate": "2024-10-27"
     }
   ]
 }
