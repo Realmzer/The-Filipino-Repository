@@ -578,7 +578,7 @@
       "bundleIdentifier": "com.chairentertainment.birthright",
       "subtitle": "Fortnite Predecessor",
       "developerName": "Filipino",
-      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/The-Filipino-Repository/refs/heads/main/IMG_2127.png",
+      "iconURL": "https://raw.githubusercontent.com/FilipinoRepo/Filipino-Repo-Images/refs/heads/main/IMG_2127.png",
       "version": "1.4.3",
       "size": 636863119,
       "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/Infinity-Blade/Infinity.Blade.I.-.Community.Patch.v2.0.ipa",
